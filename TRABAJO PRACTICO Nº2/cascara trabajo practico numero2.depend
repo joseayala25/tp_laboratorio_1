@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1462391427 source:c:\users\jose\desktop\cascara trabajo practico numero2\funcion.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcion.h"
+
+1462391420 source:c:\users\jose\desktop\cascara trabajo practico numero2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1462391357 c:\users\jose\desktop\cascara trabajo practico numero2\funcion.h
+
+1462482864 source:e:\cascara trabajo practico numero2\funcion.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcion.h"
+
+1462391358 e:\cascara trabajo practico numero2\funcion.h
+
+1462481382 source:e:\cascara trabajo practico numero2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1462804318 source:f:\cascara trabajo practico numero2\funcion.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcion.h"
+
+1462745824 f:\cascara trabajo practico numero2\funcion.h
+
+1462761674 source:f:\cascara trabajo practico numero2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1474553516 source:c:\users\jose\desktop\trabajo practico nº2\trabajo practico nº2\funcion.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcion.h"
+
+1474548645 c:\users\jose\desktop\trabajo practico nº2\trabajo practico nº2\funcion.h
+
+1474550760 source:c:\users\jose\desktop\trabajo practico nº2\trabajo practico nº2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
